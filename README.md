@@ -1,2 +1,23 @@
-# virtual-physics-experiment
-An interactive Virtual Physics Lab for Class 11 students to perform physics practicals through simulations, record observations, and understand concepts. Includes the experiment to determine the Coefficient of Static Friction.
+# 🔬 Virtual Physics Lab
+
+An interactive Python-based virtual laboratory designed for Class 11 students to explore Physics practicals digitally.
+
+Perform experiments, record observations, understand concepts, and calculate results — all in one place!
+
+### ✨ Features
+- Interactive Physics practical simulation
+- Digital observation table
+- Automatic calculations
+- Experiment theory and instructions
+- Simple and user-friendly interface
+
+### 🛠️ Built With
+Python | Tkinter | Pillow
+
+### 🧪 Featured Experiment
+**Coefficient of Static Friction**
+
+### 🎯 Purpose
+Making Physics practical learning smarter, simpler, and more accessible.
+
+**Learn Physics. Perform Experiments. Explore Virtually.**
